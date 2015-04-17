@@ -1,0 +1,7 @@
+.DS_Store
+.pub
+build
+packages
+!web/packages
+pubspec.lock
+*~
