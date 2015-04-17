@@ -1,5 +1,5 @@
 # Changelog
 
-## 0.0.1
+## 0.2.8
 
-- Initial version, created by Stagehand
++ created from the attract example in boarding
